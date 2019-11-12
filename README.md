@@ -1,2 +1,0 @@
-# repoq2
-USTECE-2112
